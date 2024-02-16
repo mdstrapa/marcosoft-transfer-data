@@ -7,5 +7,7 @@ public class Main {
         TransferData td = new TransferData();
 
         td.transfer();
+
+        System.out.println("Transfer done");
     }
 }

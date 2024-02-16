@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="039b7e11-ce69-4b8d-83e6-32d1724b7257" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcosoft/DatabaseConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcosoft/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/marcosoft/TransferData.java" afterDir="false" />
+    <list default="true" id="039b7e11-ce69-4b8d-83e6-32d1724b7257" name="Changes" comment="Init commit with full functionality">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcosoft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcosoft/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,11 +95,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708044458827</updated>
-      <workItem from="1708044459983" duration="2973000" />
+      <workItem from="1708044459983" duration="3206000" />
     </task>
+    <task id="LOCAL-00001" summary="Init commit with full functionality">
+      <option name="closed" value="true" />
+      <created>1708047438983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708047438983</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit with full functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit with full functionality" />
   </component>
 </project>
